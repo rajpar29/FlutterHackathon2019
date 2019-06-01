@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368794528211",
+    "firebase_url": "https://flutterhack-318f8.firebaseio.com",
+    "project_id": "flutterhack-318f8",
+    "storage_bucket": "flutterhack-318f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368794528211:android:03d23d9e1fe45c0d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368794528211-jdgrls51vhoacd4kipngunvv18hv2mbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuyDboItbQtfIjYLHPpwPxSrCH3vzxEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368794528211-jdgrls51vhoacd4kipngunvv18hv2mbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
